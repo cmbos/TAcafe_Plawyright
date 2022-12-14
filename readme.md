@@ -4,7 +4,7 @@ Ook kun je de slides nog een keer bekijken.
 
 # Handige links
 
-##Playwright documentatie
+## Playwright documentatie
 - https://playwright.dev/docs/getting-started-vscode
 - https://playwright.dev/docs/intro
 - https://playwright.dev/docs/writing-tests
@@ -14,7 +14,7 @@ Ook kun je de slides nog een keer bekijken.
 - https://playwright.dev/docs/test-assertions
 - https://playwright.dev/docs/pom
 
-##Youtube
+## Youtube
 - https://www.youtube.com/@Playwrightdev
 - https://www.youtube.com/watch?v=fncL63KRA-0&t=1586s
 - https://www.youtube.com/watch?v=RwNZTjwhgXc&t=5512s
@@ -22,7 +22,7 @@ Ook kun je de slides nog een keer bekijken.
 ## Test automation university
 -https://testautomationu.applitools.com/js-playwright-tutorial/
 
-##Overige documentatie
+## Overige documentatie
 - https://testguild.com/what-is-microsoft-playwright-js/
 - https://www.programsbuzz.com/article/async-and-await-playwright
 
