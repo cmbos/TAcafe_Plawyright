@@ -20,7 +20,7 @@ Ook kun je de slides nog een keer bekijken.
 - https://www.youtube.com/watch?v=RwNZTjwhgXc&t=5512s
 
 ## Test automation university
--https://testautomationu.applitools.com/js-playwright-tutorial/
+- https://testautomationu.applitools.com/js-playwright-tutorial/
 
 ## Overige documentatie
 - https://testguild.com/what-is-microsoft-playwright-js/
